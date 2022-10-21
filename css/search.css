@@ -27,7 +27,7 @@ a {
   padding-left: 25px;
 }
 
-.result-box:hover {
+a:hover {
   box-shadow: 0 3px 10px rgb(0 0 0 / 0.8);
 }
 
