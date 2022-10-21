@@ -8,7 +8,7 @@
 }
 
 /* ............................................................. */
-a{
+a {
   text-decoration: none;
 }
 .result-box {
@@ -25,6 +25,10 @@ a{
   background-color: #ffd81b61;
   border-radius: 15px;
   padding-left: 25px;
+}
+
+.result-box:hover {
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.8);
 }
 
 .result-left {
@@ -82,7 +86,7 @@ a{
   * {
     font-size: 0.8rem;
   }
-  .result-right{
+  .result-right {
     padding-right: 10px;
   }
 }
