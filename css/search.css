@@ -83,8 +83,11 @@ a:hover {
 }
 
 @media (max-width: 400px) {
-  * {
-    font-size: 0.8rem;
+  .name {
+    font-size: 1.3rem;
+  }
+  .inner-bottom {
+    font-size: 0.7rem;
   }
   .result-right {
     padding-right: 10px;

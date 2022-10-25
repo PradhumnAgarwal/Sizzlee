@@ -171,7 +171,7 @@ nav .mainMenu li.login:hover {
 
 .hero {
   height: 570px;
-  height: calc(100vh - 165px);
+  min-height: calc(100vh - 165px);
 }
 
 .hero-text {
